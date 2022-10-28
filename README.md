@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi there,I'm Mohammad Hasan Rashidi 👋</h1>
 
-<!--
-**M-Rashidi/M-Rashidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a href="https://www.linkedin.com/in/mohammad-hasan-rashidi" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>  
+ <a href="https://twitter.com/RashidiiMohamad" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
+</p>
 
-Here are some ideas to get you started:
+- 💬 Ask me about :Reactive systems, Microservices, DDD, BDD, TDD, ES-CQRS, Clean-Architecture, Clean Code,.NET Core, C#.
+- 👯 I’m looking to collaborate on: .NET projects
+- 📫 How to reach me: <a href = "mailto: mrrashidi@outlook.com">just drop me a message</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <a href="https://www.buymeacoffee.com/mhrashidi" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
