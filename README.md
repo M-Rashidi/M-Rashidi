@@ -12,9 +12,3 @@
 - 💬 Ask me about :Reactive systems, Microservices, DDD, BDD, TDD, ES-CQRS, Clean-Architecture, Clean Code,.NET Core, C#.
 - 👯 I’m looking to collaborate on: .NET projects
 - 📫 How to reach me: <a href = "mailto: mrrashidi@outlook.com">just drop me a message</a>
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/mhrashidi" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
- </a>
-</p>
