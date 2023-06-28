@@ -4,7 +4,7 @@
  <a href="https://www.linkedin.com/in/mohammad-hasan-rashidi" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>  
- <a href="https://twitter.com/RashidiiMohamad" target="_blank">
+ <a href="https://twitter.com/3mohamadhasan" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
 </p>
